@@ -1,0 +1,32 @@
+.titulo h2{
+    color: black;
+    text-align: center;
+
+}
+.integrantes{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 8px;
+    padding-left: 200px;
+   /* max-width: 300px;*/
+
+}
+
+
+.item{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 8px; 
+}
+.array{
+    color: blue;
+  
+  padding: 8px;
+  display: block;
+  
+}
+
+

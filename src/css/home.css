@@ -1,0 +1,33 @@
+.fotos{
+    max-width: 960px;
+    margin: 0 auto 20px;
+}
+.columnas{
+    display: flex;
+    gap: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.bienvenidos{
+    width: 75%;
+}
+.testimonios{
+width: 25%;
+}
+.testimonio{
+    background-color: #ddd;
+    padding: 16px;
+    
+}
+.testimonio .cita{
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+}
+.testimonio .autor{
+    font-size: 12px;
+    margin: 20px;
+    display: block;
+    justify-content: center;
+}

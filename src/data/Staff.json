@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Gomez",
+        "rol": "Encargado de Logística"
+    },
+    {
+        "nombre": "María",
+        "apellido": "Pérez",
+        "rol": "Técnico de exportación e importación"
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Rosales",
+        "rol": "Transporte de distribución"
+    },
+    {
+        "nombre": "Jésica",
+        "apellido": "Gomez",
+        "rol": "Recursos Humanos"
+    },
+    {
+        "nombre": "Mateo",
+        "apellido": "Fernández",
+        "rol": "Analista de Carga"
+    }
+    
+
+
+
+
+]
